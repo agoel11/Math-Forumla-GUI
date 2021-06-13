@@ -1,4 +1,4 @@
-# Math-Forumla-GUI
+# Math-Formula-GUI
 This is a GUI that can help you see any math formula you want, and see how it is used.
 
 You can simply type, or click the formula you want and hit search
