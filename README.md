@@ -19,7 +19,7 @@ The .ico file is the image for the icon that is displyed
 
 The formulas folder has all the images for the formulas
 
-The images are padded to be the same size 965x625
+The images are padded to be the same size 655 x 954
 
 *The icon of the GUI is also a Codeday logo if you look closely ;)*
 
