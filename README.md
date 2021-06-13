@@ -37,4 +37,10 @@ The code is not machine specific (MAC, Linux, or Windows)
 
 There are some ares where you must specify the path to the images on your machine, but that can be changed easily
 
+The .ico file is the image for the icon that is displyed
+
+The formulas folder has all the images for the formulas
+
+The images are padded to be the same size 965x625
+
 Enjoy!
